@@ -1,0 +1,9 @@
+ucimlrepo
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+unittest2
+certifi
+pytest
